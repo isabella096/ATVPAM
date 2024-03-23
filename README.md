@@ -4,35 +4,35 @@
 <br><br>
 
 <img src="print1.png">
-<p></p>
+<p>Criando um novo repositório.</p>
 <br><br>
 
 <img src="print2.png">
-<p></p>
+<p>Após abrir o projeto no Git Bash, iniciamos o repositório com o comando "git init".</p>
 <br><br>
 
 <img src="print3.png">
-<p></p>
+<p>Iniciando a estrutura básica do Git Bash, onde declaramos o nome de usuário e o email utilizados no cadastro do GitHub.</p>
 <br><br>
 
 <img src="print4.png">
-<p></p>
+<p>Configurando o repositório, onde utilizamos o comando "git remote add origin" para associar o repositório ao servidor, e o comando "git pull" para puxar arquivos e mesclar alterações.</p>
 <br><br>
 
 <img src="print5.png">
-<p></p>
+<p>Utilizando o "git checkout" para mudar de branch.</p>
 <br><br>
 
 <img src="print6.png">
-<p></p>
+<p>Utilizando o "git add" para adiocionar um commit junto do comando "git commit", para marcar um ponto de referência no arquivo.</p>
 <br><br>
 
 <img src="print7.png">
-<p></p>
+<p>Com o "git push" enviamos as alterações para o servidor.</p>
 <br><br>
 
 <img src="print8.png">
-<p></p>
+<p>Mostrando arquivo no repositório.</p>
 <br><br>
 
 <img src="print9.png">
@@ -40,13 +40,13 @@
 <br><br>
 
 <img src="print10.png">
-<p></p>
+<p>Alterando o arquivo e fazendo um commit no repositório.</p>
 <br><br>
 
 <img src="print11.png">
-<p></p>
+<p>Conm o "git pull" puxamos as alterações do repositório para o arquivo local e utilizamos o "git log" para ver os commits feitos.</p>
 <br><br>
 
 <img src="print12.png">
-<p></p>
-<br><br>
+<p>Monstrando a junção das alterações no projeto.</p>
+
