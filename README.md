@@ -24,7 +24,7 @@
 <br><br>
 
 <img src="print6.png">
-<p>Utilizando o "git add" para adiocionar um commit junto do comando "git commit", para marcar um ponto de referência no arquivo.</p>
+<p>Utilizando o "git add" para adicionar um commit junto do comando "git commit", para marcar um ponto de referência no arquivo.</p>
 <br><br>
 
 <img src="print7.png">
